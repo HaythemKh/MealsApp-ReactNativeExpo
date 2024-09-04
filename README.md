@@ -8,7 +8,7 @@
 - **Favorites Management:** Add meals to your favorites list and remove them as needed.
 - **Favorites List:** Easily access your favorite meals in a dedicated list.
 
-This app utilizes both Redux and Context API, showcasing how to manage state effectively in a React Native application.
+This app shows how to manage state in a React Native Expo application using both Redux and Context API as examples.
 
 ## Installation
 
