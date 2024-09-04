@@ -14,16 +14,18 @@ This app utilizes both Redux and Context API, showcasing how to manage state eff
 
 1. Clone this repository to your local machine:
 
-   git clone 
+   git clone https://github.com/HaythemKh/MealsApp-ReactNativeExpo.git
 
 2. Navigate to the project directory:
 
-
+   | cd MealsApp-ReactNativeExpo |
 
 3. Install Dependencies of the project:
 
    | npm install |
 
 4. Run the Project:
+
+   | npx expo start |
 
    
